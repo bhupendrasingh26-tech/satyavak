@@ -1,0 +1,8 @@
+{
+  "name": "Satyavāk: AI Legal Assistance",
+  "description": "An AI-powered platform to democratise access to justice in India through innovative, multilingual, and secure artificial intelligence. Features include an AI chatbot, legal aid locator, virtual courtroom simulator, and document generator.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
